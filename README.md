@@ -9,8 +9,7 @@
 
 ### 💻 About Me
 
-- 🔭 I’m currently working on a **multi-vendor B2B eCommerce platform** using **Spring Boot + React**.
-- 🌱 I’m learning **Spring Security OAuth2**, **Database Design**, and **Performance Optimization**.
+- 🌱 I’m learning **Spring Security**, **Database Design**, and **Performance Optimization**.
 - 🧠 Passionate about clean code, RESTful APIs, and backend architecture.
 - 💬 Ask me about **Spring Boot**, **REST APIs**, **PostgreSQL**, **OAuth2**, or anything backend.
 - 📫 Reach me at **poudelanish11@gmail.com**
