@@ -58,7 +58,7 @@
 | 📅 [Event Management System](https://github.com/Anish5703/Event-Management-System.git) | Event registration platform with role-based access and dynamic web pages | Spring MVC, Thymeleaf, PostgreSQL |
 
 ---
-
+<!--
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -68,7 +68,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anish5703&theme=radical" />
 </p>
-
+-->
 ---
 
 ### 🔗 Connect with Me
