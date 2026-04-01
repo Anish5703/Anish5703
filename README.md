@@ -50,7 +50,7 @@
 
 ---
 
-### 🔧 Projects
+###  Projects
 
 | Project                | Description                                                             | Tech Stack |
 |------------------------|-------------------------------------------------------------------------|------------|
@@ -71,7 +71,7 @@
 -->
 ---
 
-### 🔗 Connect with Me
+###  Connect with Me
 
 <p align="center">
   <a href="mailto:poudelanish11@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
