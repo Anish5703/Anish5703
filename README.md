@@ -54,8 +54,8 @@
 
 | Project                | Description                                                             | Tech Stack |
 |------------------------|-------------------------------------------------------------------------|------------|
-|  [Paathshala](https://github.com/Anish5703/paathshala.git) | A web based learning management system with secure jwt authentication , stripe payment integeration , role based access | Spring Boot
-|  [Event Management System](https://github.com/Anish5703/Event-Management-System.git) | Event registration platform with role-based access and dynamic web pages | Spring MVC, Thymeleaf, PostgreSQL |
+|  [Paathshala](https://github.com/Anish5703/paathshala.git) | A web based learning management system with rest api design including secure jwt authentication , stripe payment integeration , role based access | Spring Boot, Spring AI, PostgreSQL, Docker |
+|  [Event Management System](https://github.com/Anish5703/Event-Management-System.git) | Event registration platform with mvc design indcluding role-based access and dynamic web pages | Spring Boot, Thymeleaf, PostgreSQL , Docker|
 
 ---
 <!--
