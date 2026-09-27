@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Anish Paudel</h1>
-<h3 align="center"> Backend Java Developer | Spring Boot Enthusiast | SDLC Practitioner</h3>
+<h3 align="center"> Junior Software Engineer | JAVA Enthusiast | SDLC Practitioner</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Anish5703&label=Profile%20views&color=0e75b6&style=flat" alt="Anish5703" />
@@ -13,7 +13,7 @@
 -  Passionate about clean code, RESTful APIs, and backend architecture.
 -  Ask me about **Spring Boot**, **REST APIs**, **PostgreSQL**, **OAuth2**, or anything backend.
 -  Reach me at **poudelanish11@gmail.com**
--  Open to collaborative or freelance Java backend projects.
+-  Open to collaborative or freelance Java projects.
 
 ---
 
